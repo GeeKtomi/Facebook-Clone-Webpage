@@ -1,0 +1,52 @@
+<div class="bottom">
+    
+  <div class="ver">
+        <ol>
+       English (UK)
+       <a href="#">മലയാളം </a><
+       <a href="#">தமிழ்</a>
+       <a href="#">తెలుగు</a>
+       <a href="#">বাংলা</a>
+       <a href="#">اردو</a>
+       <a href="#">हिन्दी</a>
+       <a href="#">ಕನ್ನಡ</a>
+       <a href="#">Español</a>
+       <a href="#">Português (Brasil)</a>
+       <a href="#">Français (France)</a>
+       <button>+</button>
+    </ol></div>
+<hr>
+<div class="ver-two">
+    <ol>
+        <a href="#">Sign Up</a>   
+        <a href="#">Log In </a>
+        <a href="#">Messenger</a>
+        <a href="#">Facebook Lite</a>
+        <a href="#">Watch</a>
+        <a href="#">People</a>
+        <a href="#">Pages</a>
+        <a href="#">Page categories</a>
+        <a href="#">Places</a>
+        <a href="#">Games</a>
+        <a href="#">Locations</a>
+        <a href="#">Marketplace</a>
+        <a href="#">Facebook</a>
+        <a href="#">PayGroups</a>
+        <a href="#">Jobs</a>
+        <a href="#">Oculus</a>
+        <a href="#">Portal</a>
+        <a href="#">Instagram</a>
+        <a href="#">Local</a>
+      
+    </ol>
+</div>
+
+
+.ver{
+   padding-left: 2%;
+}
+
+.ver-two{
+  padding-left: 5%;
+  padding-right: 50%;
+}
